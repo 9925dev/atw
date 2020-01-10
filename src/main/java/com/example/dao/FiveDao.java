@@ -7,4 +7,5 @@ package com.example.dao;
  * version: 1.0
  */
 public class FiveDao {
+    //这是master修改
 }
