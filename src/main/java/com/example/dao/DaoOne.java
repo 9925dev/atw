@@ -12,4 +12,5 @@ public class DaoOne {
 
     private Integer age;
 
+    private Long number;
 }
