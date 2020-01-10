@@ -10,5 +10,6 @@ public class DaoOne {
 
     private Integer id;
 
+    private Integer age;
 
 }
