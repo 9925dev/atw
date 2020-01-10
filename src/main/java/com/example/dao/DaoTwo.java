@@ -7,8 +7,5 @@ package com.example.dao;
  * version: 1.0
  */
 public class DaoTwo {
-
     private String name;
-
-
 }
