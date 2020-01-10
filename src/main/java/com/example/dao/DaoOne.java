@@ -7,4 +7,8 @@ package com.example.dao;
  * version: 1.0
  */
 public class DaoOne {
+
+    private Integer id;
+
+
 }
